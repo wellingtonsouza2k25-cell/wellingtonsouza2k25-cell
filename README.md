@@ -1,4 +1,4 @@
-# Wellington Souza Alves 👋
+# Wellington Souza Alves 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas - UEPB
 
