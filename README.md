@@ -1,16 +1,37 @@
-## Hi there 👋
+# Wellington Souza Alves 👋
 
-<!--
-**wellingtonsouza2k25-cell/wellingtonsouza2k25-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UEPB
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação com foco em:
+- Python
+- Java
+- JavaScript
+- Banco de Dados
+- Desenvolvimento de aplicações
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+### Sistema de Triagem Inteligente
+Aplicação desktop utilizando Python, CustomTkinter,
+SQLite e Gemini API.
+
+### Simulador de Caixa Eletrônico
+Projeto em Java aplicando:
+- Programação Orientada a Objetos
+- Tratamento de exceções
+- Persistência de dados
+
+### Biblioteca de Estruturas de Dados
+Implementação de estruturas clássicas em Java.
+
+## 🛠 Tecnologias
+
+Python | Java | JavaScript | SQL  
+Git | GitHub | Linux | HTML | CSS
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Backend
+- Estruturas de Dados
+- Segurança da Informação
+- Boas práticas de software
