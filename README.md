@@ -56,13 +56,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Es
       <h3 align="center">🏥 Sistema de Triagem Inteligente</h3>
       <p align="center">Aplicação desktop para gestão de atendimentos com IA integrada (Gemini API) para apoiar na classificação de prioridade de pacientes.</p>
       <p align="center"><strong>Python • Custom Tkinter • SQLite</strong></p>
-      <p align="center"><a href="[LINK_PROJETO_TRIAGEM]">🔗 Acessar Repositório</a></p>
+      <p align="center"><a href="https://github.com/wellingtonsouza2k25-cell/sistema-triagem-inteligente.git">🔗 Acessar Repositório</a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏦 Simulador de Caixa Eletrônico</h3>
       <p align="center">Aplicação de terminal simulando operações bancárias completas, aplicando POO, tratamento de exceções e persistência.</p>
       <p align="center"><strong>Java • POO • Git</strong></p>
-      <p align="center"><a href="[LINK_PROJETO_CAIXA]">🔗 Acessar Repositório</a></p>
+      <p align="center"><a href="https://github.com/wellingtonsouza2k25-cell/SimuladorCaixaEletronico">🔗 Acessar Repositório</a></p>
     </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Es
       <h3 align="center">📚 Biblioteca de Estruturas de Dados</h3>
       <p align="center">Implementação de uma biblioteca educacional em Java contendo estruturas de dados clássicas, Generics e operações de busca e percurso.</p>
       <p align="center"><strong>Java • Estruturas de Dados • Algoritmos</strong></p>
-      <p align="center"><a href="[LINK_PROJETO_BIBLIOTECA]">🔗 Acessar Repositório</a></p>
+      <p align="center"><a href="https://github.com/wellingtonsouza2k25-cell/BibliotecaEstruturasDados">🔗 Acessar Repositório</a></p>
     </td>
   </tr>
 </table>
