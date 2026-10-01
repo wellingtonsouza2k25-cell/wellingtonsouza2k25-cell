@@ -13,15 +13,12 @@
 <!-- Sobre Mim -->
 ## 👨‍💻 Sobre Mim
 
-{
-  "nome": "Wellington Souza",
-  "curso": "Análise e Desenvolvimento de Sistemas",
-  "instituicao": "UEPB",
-  "periodo": "3º Período",
-  "skills_principais": ["Python", "Java", "JavaScript", "SQL"],
-  "foco_atual": "Criar soluções com acessibilidade e impacto social",
-  "status": "À procura da primeira oportunidade de estágio em TI"
-}
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Estadual da Paraíba (UEPB), atualmente no 3º período. Tenho um forte foco em criar soluções eficientes e inovadoras.
+
+- 🎓 Cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** na UEPB.
+- 💡 Buscando minha primeira oportunidade de estágio em TI para impactar projetos reais.
+- 🚀 Desenvolvendo aplicações focadas no back-end e integrações com **Python, Java e JavaScript**.
+- 📫 Como me encontrar: **wellingtonsouza2k25@gmail.com**
 
 <br>
 
