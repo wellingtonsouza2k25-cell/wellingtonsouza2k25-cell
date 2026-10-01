@@ -133,10 +133,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** pela Universidade Es
   <a href="mailto:wellingtonsouza2k25@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[LINK_DO_SEU_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/wellington-souza-alves-0b7304397/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[LINK_DO_SEU_INSTAGRAM]" target="_blank">
+  <a href="https://www.instagram.com/wellington__s0uza/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
